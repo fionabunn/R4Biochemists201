@@ -13,3 +13,5 @@ Questions about these materials should be addressed to Dr Paul Brennan.
 Contact can be made by email (brennanpincardiff@gmail.com), 
 [twitter](https://twitter.com/brennanpcardiff) (@brennanpcardiff) 
 or here on Github. Issues and pull requests are welcome.  
+
+Testing editing commiting and pushing to Github :)
